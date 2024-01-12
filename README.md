@@ -12,7 +12,6 @@
 | <img align="center" style="width: 100%;" src="https://github-readme-stats.vercel.app/api?username=GaluhIdam&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&cache_seconds=7200" alt="Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaluhIdam&layout=compact&theme=transparent&hide_border=true&cache_seconds=7200" style="width: 100%;" /> |
 | ------------- | ------------- |
 
-<!-- ![***](https://raw.githubusercontent.com/GaluhIdam/GaluhIdam/output/github-contribution-grid-snake.svg)
 </center>
 
 
