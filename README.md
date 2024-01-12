@@ -3,6 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=galuhidam&label=Profile%20views&color=0e75b6&style=flat" alt="galuhidam" /> </p>
 
+
+<center>
+<!--
+**GaluhIdam/GaluhIdam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
+| <img align="center" style="width: 100%;" src="https://github-readme-stats.vercel.app/api?username=GaluhIdam&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&cache_seconds=7200" alt="Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaluhIdam&layout=compact&theme=transparent&hide_border=true&cache_seconds=7200" style="width: 100%;" /> |
+| ------------- | ------------- |
+
+<!-- ![***](https://raw.githubusercontent.com/GaluhIdam/GaluhIdam/output/github-contribution-grid-snake.svg)
+</center>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/galuhidam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="galuhidam" height="30" width="40" /></a>
