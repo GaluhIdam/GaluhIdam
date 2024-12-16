@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Galuh Idam</h1>
 <h3 align="center">As a software developer who focuses on software development, I have strong knowledge and experience in various programming languages, frameworks, and technologies. I have a deep understanding of PHP, HTML, CSS, JavaScript, TypeScript, and Dart, as well as frameworks like Flutter, Angular, NestJS, VueJS, Laravel, CodeIgniter, Hasura, and GraphQL.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=galuhidam&label=Profile%20views&color=0e75b6&style=flat" alt="galuhidam" /> </p>
 
 
 <center>
